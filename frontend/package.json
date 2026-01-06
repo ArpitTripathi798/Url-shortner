@@ -1,5 +1,5 @@
 {
-  "name": "url-shortener-frontend",
+  "name": "url-shortner-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,3 +18,4 @@
     "vite": "^5.0.8"
   }
 }
+
